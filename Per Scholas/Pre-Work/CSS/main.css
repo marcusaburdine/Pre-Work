@@ -1,0 +1,66 @@
+body{position: static;
+
+    border: solid;
+    margin: 5px;
+    padding: 10px;
+    padding: 20px;
+align-items: center;
+}
+
+
+#divpara1{
+    font-family: 'Courier New', Courier, monospace;
+    width: 40%;
+
+}
+
+
+#divpara2{
+    font-family: 'Courier New', Courier, monospace;
+    width: 40%;
+
+}
+
+#divtable{
+    width:80%;
+
+}
+
+form{
+    padding: 15px;
+    border-style: solid;
+    width: 40%;
+    font-weight:900
+
+
+}
+
+#input[type=button] :hover{
+    color:black;
+    background-color:black;
+    padding: 5px
+}
+
+#divred{
+    color:red;
+}
+
+#divgreen{
+    color:green;
+}
+
+#divblue{
+    color:blue;
+}
+
+#divviolet{
+    color:violet;
+}
+
+#divyellow{
+    color:gold;
+}
+
+#divorange{
+    color:orange;
+}
